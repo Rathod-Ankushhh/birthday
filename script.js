@@ -4,7 +4,7 @@
   // =============================================
 
   // 🗓️ SET YOUR RELATIONSHIP START DATE HERE (Year, Month-1, Day)
-  const START_DATE = new Date(2021, 3, 18); // March 18, 2020
+   const START_DATE = new Date(2021, 2, 18); // March 18, 2021
 
   // 💌 EDIT YOUR BIRTHDAY WISHES HERE
   const WISHES = [
@@ -322,4 +322,5 @@
 			}
 		});
 	}
+
 
